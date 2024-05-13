@@ -1,0 +1,20 @@
+.par {
+    color: blue;
+    font-weight: 600;
+}
+
+span {
+    color: purple
+}
+
+.cls {
+    color: orange;
+}
+
+#first {
+    color: aqua;
+}
+
+.par span {
+    color: red;
+}
