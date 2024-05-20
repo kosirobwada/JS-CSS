@@ -12,6 +12,12 @@
   background-color: black;
   color: white;
 }
+.btn-cube {
+  background-color: black;
+}
+.btn-cube .inner {
+  background-color: white;
+}
 
 #container {
   text-align: center;
